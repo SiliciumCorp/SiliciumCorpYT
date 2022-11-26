@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de tester la qualité de votre Rotary Encoder
 // Vidéo Youtube : https://www.youtube.com/watch?v=J_Tn0zh51ec
 //

@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de partager des fonctions clés en main afin de manipuler des signaux PWM pour controller des leds RGB
 // Passez en revues les fonctions et observez les usages qui en sont fait dans la loop principale.
 // Résultats psychédéliques de l'usage de ces fonctions dans la video @8:20

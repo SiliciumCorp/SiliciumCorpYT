@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de controller que le bouton poussoir raccordé à l'Arduino est correctement branché
 // Vidéo Youtube : https://www.youtube.com/watch?v=49QmuGBwh7M
 //

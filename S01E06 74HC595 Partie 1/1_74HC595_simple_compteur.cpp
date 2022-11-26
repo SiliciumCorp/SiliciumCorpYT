@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de presenter le composant PIC 74HC595 8 Bit-shift register
 // Dans cette example on affiche les valeurs en binaire de 0 à 255 à l'aide de 8 LEDs connectées au circuit
 //

@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de presenter une première approche compréhensive du protocole de communication avec le DHT11
 //
 // Vidéo Youtube : https://www.youtube.com/watch?v=x0fqwdBF8Es

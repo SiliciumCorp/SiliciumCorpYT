@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de simuler un verrou de coffre, qui utiliserait un rotary encoder comme moyen de saisi
 // Vidéo Youtube : https://www.youtube.com/watch?v=J_Tn0zh51ec
 //

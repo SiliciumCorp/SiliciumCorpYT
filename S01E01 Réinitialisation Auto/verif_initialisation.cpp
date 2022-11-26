@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but d'afficher un compteur qui s'incremente chaque seconde.
 // Executer ce programme apres avoir retiré la piste sur la carte Arduino met en évidence l'absence de réinitialisation.
 // Video YOUTUBE : https://www.youtube.com/watch?v=OPJG6oxAMO8

@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de vous chronometrer et detecter votre temps de réation
 // Vidéo Youtube : https://www.youtube.com/watch?v=49QmuGBwh7M
 //

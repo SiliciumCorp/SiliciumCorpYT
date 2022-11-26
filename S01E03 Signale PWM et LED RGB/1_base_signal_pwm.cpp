@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de passer en revue les bases du concept du signal PWM.
 // Vidéo Youtube : https://www.youtube.com/watch?v=awcMiS3cGvk
 //

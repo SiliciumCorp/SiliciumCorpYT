@@ -1,5 +1,5 @@
 //
-// SiliciumCorp Youtube Channel
+// SiliciumCorp Youtube
 // Ce programme à pour but de presenter le composant PIC 74HC595 8 Bit-shift register
 // Dans cette example on allume une seule des 8 LEDs en opérant un shift binaire et
 // cela apparait comme une rotation continue de LED. Version LSBFIRST
