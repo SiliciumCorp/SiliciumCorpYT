@@ -3,7 +3,7 @@
 // Ce programme à pour but de presenter le composant PIC 74HC595 8 Bit-shift register
 // Dans cette example on envoie deux valeurs decimales au shift register dans l'objectif de mettre en evidence le debordement de data sur Q7S
 //
-// Vidéo Youtube : 
+// Vidéo Youtube : https://youtu.be/jFUmCvr2LKs
 //
 
 #define PIN_DS_DATA 4

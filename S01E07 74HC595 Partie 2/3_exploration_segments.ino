@@ -3,7 +3,7 @@
 // Ce programme à pour but de presenter le composant PIC 74HC595 8 Bit-shift register
 // Dans cette example on exploite un peu plus le shift grace a deux fonctions pour nous simplifier la tache.
 //
-// Vidéo Youtube : 
+// Vidéo Youtube : https://youtu.be/jFUmCvr2LKs
 //
 
 #include <math.h>

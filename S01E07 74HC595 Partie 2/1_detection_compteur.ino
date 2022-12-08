@@ -4,7 +4,7 @@
 // Dans cette example on envoie des valeurs decimales au shift register dans l'objectif de voir apparaitre les chiffres de 0 à 9
 // Deux boucles permettent de tester la data dans les deux sens de lecture binaire
 //
-// Vidéo Youtube : 
+// Vidéo Youtube : https://youtu.be/jFUmCvr2LKs
 //
 
 #define PIN_DS_DATA 4
